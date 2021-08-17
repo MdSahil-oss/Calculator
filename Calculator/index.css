@@ -1,0 +1,36 @@
+.calculator{
+    border:2px solid black;
+    margin:auto;
+    width:270px;
+    height:320px;
+    border-radius: 20px;
+    background-color:aqua;
+}
+.container{
+    text-align:center;
+    /* border:2px solid black; */
+}
+table{
+    /* border: 2px solid black; */
+    margin:10px auto;
+    width:auto;
+}
+button{
+    width:58px;
+    height:32px;
+    border-radius:15px;
+    border:none;
+    border:2px solid grey;
+    background-color: rgb(175, 175, 175);
+}
+button:hover{
+    border:2px solid grey;
+    background-color: grey;
+}
+input{
+    border:3px solid black;
+    text-align:center;
+    width:237px;
+    height: 25px;
+    border-radius:20px;
+}
